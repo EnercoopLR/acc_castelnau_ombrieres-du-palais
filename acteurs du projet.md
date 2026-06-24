@@ -5,7 +5,7 @@ in_menu: true
 ---
 # Découvrez
 
-![Logo SA3M]({% link images/1.jpg %})
+![Logo SA3M]({% link images/Logos_ACC_Castelnau site web.jpg %})
 * [La SA3M](https://www.serm-montpellier.fr/)
 
 **Maître d'ouvrage des ombrières et du projet solaire**, elle a permis le financement des ombrières et la réalisation du chantier
