@@ -16,5 +16,6 @@ in_menu: true
 * **237 tonnes de CO2 évitées chaque année**
 * **Coût client** : 0,13 €/kWh hors taxes
 
+![Les Ombrières du Palais]({% link images/Ombrieres Casltenau.jpg %})
 
 <a href="https://form.enercoop.org/autoconsommation-collective-a-castelnau-le-lez" class="bouton">Je rejoins la boucle d'autoconsommation collective</a> 
