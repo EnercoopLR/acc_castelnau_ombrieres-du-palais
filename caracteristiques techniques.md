@@ -3,9 +3,8 @@ title: "Caractéristiques techniques"
 order: 2
 in_menu: true
 ---
-L’association cherche à œuvrer en collaboration avec des organismes publics, des organisations privées et des individus.
+# CARACTÉRISTIQUES TECHNIQUES
 
-## Caractéristiques techniques
 
 * **Localisation** : Castelnau-le-Lez (34)
 * **Choix du site** : ombrières du parking du Palais des Sports
