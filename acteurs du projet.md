@@ -3,25 +3,25 @@ title: "Acteurs du projet"
 order: 4
 in_menu: true
 ---
-# LES ACTEURS DU PROJET
+# Découvrez
 
-![Logo SA3M]({% link images/SA3M-BY ALTEMED.png %})
+![Logo SA3M]({% link images/1.jpg %})
 * [La SA3M](https://www.serm-montpellier.fr/)
 
 **Maître d'ouvrage des ombrières et du projet solaire**, elle a permis le financement des ombrières et la réalisation du chantier
 
-![Ville Castelnau-le-Lez]({% link images/Logo Castelnau-le-Lez.png %})
+![Ville Castelnau-le-Lez]({% link images/2.jpg %})
 * [La Commune de Castelnau-le-Lez](https://www.castelnau-le-lez.fr/) 
 
 **Maitre d'ouvrage du parking, commanditaire et consommatrice** dans la boucle d'autoconsommation collective, la commune est au coeur du projet.
 
-![Logo Enercoop Languedoc-Roussillon]({% link images/LOGO_ELR.png %})
+![Logo Enercoop Languedoc-Roussillon]({% link images/3.jpg %})
 
 *  [Enercoop Languedoc-Roussillon](https://www.enercoop.fr/nos-cooperatives/languedoc-roussillon) 
 
 **Enercoop est connu pour sa fourniture d'énergie renouvelable**. La coopérative locale, experte de la mobilisation collective accompagne la commune et la SA3M à partager leur électricité en circuit court. 
 
-![Logo Enerfip]({% link images/Logo ENERFIP.png %})
+![Logo Enerfip]({% link images/4.jpg %})
 
 * [Enerfip](https://www.enerfip.eu/fr)
 
