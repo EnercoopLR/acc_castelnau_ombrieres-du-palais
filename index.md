@@ -9,7 +9,7 @@ in_menu: true
 
 ![Image les Ombrières du Palais]({% link images/Ombrieres Casltenau.jpg %})
 
-<a href="" class="bouton">Découvrir les détails du projet</a>
+<a href="https://clood.enercoop.org/index.php/s/a6sMcTSDbrLin2q/" class="bouton">Découvrir les détails du projet</a>
 
 <a href="https://form.enercoop.org/autoconsommation-collective-a-castelnau-le-lez/" class="bouton">Je rejoins la commuanuté d'énergie</a> 
 
