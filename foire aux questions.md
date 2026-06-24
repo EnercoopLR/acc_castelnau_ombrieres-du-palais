@@ -35,7 +35,9 @@ Pour finaliser votre entrée dans l’opération, quelques démarches sont néce
 * 3/ Signer le contrat de partage de l’électricité locale.
 
 <a href="https://clood.enercoop.org/index.php/s/CageGfSnRMfM9y8" class="bouton">Découvrir le livret d'accueil</a>
+
 ***
+
 ### Qu'est-ce que cela change pour moi ?
 À la fois rien et tout ! Concrètement, l’électricité consommée sera toujours d’aussi bonne qualité : pas de coupure ni aucune installation à faire chez vous. C’est uniquement le système de facturation qui sera légèrement modifié. Vous recevrez désormais 2 factures :
 
