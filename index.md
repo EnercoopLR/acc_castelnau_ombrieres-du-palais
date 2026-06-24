@@ -23,10 +23,10 @@ La ville de Castelnau-le-Lez lance son premier projet d'autoconsommation collect
 
 ![Image 2 les Ombrières du Palais]({% link images/Capture d’écran du 2026-06-12 00-25-11.png %})
 
-## Enercoop Languedoc-Roussillon vous aide à comprendre ce qu'est l'autoconsommation collective et vous accompagne pas-à-pas pour rejoindre le projet
+## REJOINDRE LE PROJET, PAS-À-PAS ...
 
-*Enercoop Languedoc-Roussillon porte des projets de production d’énergie renouvelable adaptés aux besoins du territoire. Les énergies renouvelables sont des biens communs et notre coopérative facilite leur réappropriation par les citoyen-nes.*
+*Enercoop Languedoc-Roussillon porte des projets de production d’énergie renouvelable adaptés aux besoins du territoire. Les énergies renouvelables sont des biens communs et la coopérative facilite leur réappropriation.*
 
-**Financé grâce au capital social, c’est-à-dire la contribution des sociétaires, la coopérative accompagne les boucles d'autoconsommation collective de A à Z !** Ici, nous commercialisons l'énergie produite par la boucle de la commune de Castelnau-le-Lez.
+**Financé grâce au capital social, c’est-à-dire la contribution des sociétaires, la coopérative accompagne les boucles d'autoconsommation collective de A à Z !** Ici, Enercoop Languedoc-Roussillon commercialise l'énergie produite par la boucle des Ombrières du Palais de la commune de Castelnau-le-Lez.
 
 <a href="https://www.enercoop.fr/notre-offre/economies-d-energie/plus-d-actes-moins-de-watts/autoconsommation-collective/" class="bouton">En savoir + sur l'autoconsommation collective</a> 
