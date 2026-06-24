@@ -25,6 +25,7 @@ Le prix de partage du producteur au sein de l’Opération d'ACC est indexé sur
 Les producteurs s’engagent à prioriser la consommation de la Commune de Castelnau-le-Lez, puis à répartir le surplus entre les différents particuliers tel que décrit à l’Article. A date, La part énergie revient à 0,13 €/kWh hors taxes (au 12 juin 2026).
 
 <a href="https://clood.enercoop.org/index.php/s/XzsD3jYTsMXJ7JN" class="bouton">Découvrir le Schéma de répartition de l'énergie</a>
+
 ***
 ### Comment souscrire ?
 Pour finaliser votre entrée dans l’opération, quelques démarches sont nécessaires en contactant le service commercial d'Enercoop Languedoc-Roussillon en bas de ce mail. Ensuite nous vous accompagnerons dans les démarches :
@@ -41,4 +42,4 @@ Pour finaliser votre entrée dans l’opération, quelques démarches sont néce
 * L’une provenant de projet d’autoconsommation collective, qui facturera pour le compte des producteurs, en fonction de la quantité d’électricité consommée en provenance de chaque producteur.
 * La deuxième facture concernera l’électricité consommée en dehors des périodes de production des installations solaires et viendra de votre fournisseur habituel ou vous pouvez choisir de passer chez [Enercoop](https://souscription.enercoop.fr/s/etape/1).
 
-<a href="https://form.enercoop.org/autoconsommation-collective-a-castelnau-le-lez" class="bouton">Je souhaite rejoindre la boucle d'ACC</a> 
+<a href="https://form.enercoop.org/autoconsommation-collective-a-castelnau-le-lez" class="bouton">Je rejoins la communauté énergétique</a> 
