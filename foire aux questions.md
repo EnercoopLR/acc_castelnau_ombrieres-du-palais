@@ -1,6 +1,6 @@
 ---
 title: "Foire aux Questions"
-order: 5
+order: 4
 in_menu: true
 ---
 # COMMENT ÇA FONCTIONNE ?

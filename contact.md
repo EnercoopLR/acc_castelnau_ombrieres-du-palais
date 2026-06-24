@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-order: 3
+order: 5
 in_menu: true
 ---
 # REJOINDRE LA BOUCLE D'AUTOCONSOMMATION COLLECTIVE
