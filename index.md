@@ -11,7 +11,7 @@ in_menu: true
 
 <a href="https://clood.enercoop.org/index.php/s/a6sMcTSDbrLin2q" class="bouton">Découvrir les détails du projet</a>
 
-<a href="https://form.enercoop.org/autoconsommation-collective-a-castelnau-le-lez/" class="bouton">Je rejoins la commuanuté d'énergie</a> 
+<a href="https://form.enercoop.org/autoconsommation-collective-a-castelnau-le-lez/" class="bouton">Je rejoins la communauté énergétique</a> 
 
 ## UN PROJET SUR MESURE
 
