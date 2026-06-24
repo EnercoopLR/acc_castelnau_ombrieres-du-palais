@@ -26,3 +26,5 @@ in_menu: true
 * [Enerfip](https://www.enerfip.eu/fr)
 
 **Chargé de collecter de l'épargne au profit de la commune pour ce projet**, la plateforme a permis de collecter de l'argent et rémunérer les investisseurs. 
+
+<a href="https://form.enercoop.org/autoconsommation-collective-a-castelnau-le-lez/" class="bouton">Je rejoins la commuanuté d'énergie</a> 
