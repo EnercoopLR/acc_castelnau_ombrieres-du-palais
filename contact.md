@@ -12,7 +12,7 @@ Pour nous contacter :
 
 ![Image3 Les Ombrières du Palais]({% link images/Capture d’écran du 2026-06-12 00-25-24.png %})
 
-<a href="https://form.enercoop.org/autoconsommation-collective-a-castelnau-le-lez/" class="bouton">Je rejoins la commuanuté d'énergie</a> 
+<a href="https://form.enercoop.org/autoconsommation-collective-a-castelnau-le-lez/" class="bouton">Je rejoins la communauté énergétique</a> 
 
 
 ` 
