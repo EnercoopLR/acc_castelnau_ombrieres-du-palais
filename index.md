@@ -3,8 +3,9 @@ title: "Accueil"
 order: 1
 in_menu: true
 ---
-# REJOIGNEZ LA BOUCLE D'AUTOCONSOMMATION COLLECTIVE DE CASTELNAU-LE-LEZ
-## "LES OMBRIERES DU PALAIS"
+## REJOIGNEZ LA COMMUNAUTÉ ÉNERGÉTIQUE À CASTELNAU-LE-LEZ
+# LES OMBRIÈRES DU PALAIS
+
 
 ![Image les Ombrières du Palais]({% link images/Ombrieres Casltenau.jpg %})
 
@@ -22,7 +23,7 @@ La ville de Castelnau-le-Lez lance son premier projet d'autoconsommation collect
 
 ![Image 2 les Ombrières du Palais]({% link images/Capture d’écran du 2026-06-12 00-25-11.png %})
 
-# Enercoop Languedoc-Roussillon vous aide à comprendre ce qu'est l'autoconsommation collective et vous accompagne pas-à-pas pour rejoindre le projet
+## Enercoop Languedoc-Roussillon vous aide à comprendre ce qu'est l'autoconsommation collective et vous accompagne pas-à-pas pour rejoindre le projet
 
 *Enercoop Languedoc-Roussillon porte des projets de production d’énergie renouvelable adaptés aux besoins du territoire. Les énergies renouvelables sont des biens communs et notre coopérative facilite leur réappropriation par les citoyen-nes.*
 
