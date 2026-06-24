@@ -18,4 +18,4 @@ in_menu: true
 
 ![Zonage 2km]({% link images/Zonage_boucle_2km.jpg %})
 
-<a href="https://form.enercoop.org/autoconsommation-collective-a-castelnau-le-lez" class="bouton">Je rejoins la boucle d'autoconsommation collective</a> 
+<a href="https://form.enercoop.org/autoconsommation-collective-a-castelnau-le-lez" class="bouton">Je rejoins la communauté énergétique</a> 
