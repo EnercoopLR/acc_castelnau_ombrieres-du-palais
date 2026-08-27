@@ -6,3 +6,4 @@ plugins:
   - jekyll-git-hash
 theme: mimoza
 scribouilli: true
+baseurl: /acc_castelnau_ombrieres-du-palais
