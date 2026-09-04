@@ -34,7 +34,7 @@ Pour finaliser votre entrée dans l’opération, quelques démarches sont néce
 * 2/ Signer la convention de participation et les statuts relatifs à l’opération d’autoconsommation collective. Ce document établit les règles qui regissent la boucle ;
 * 3/ Signer le contrat de partage de l’électricité locale.
 
-<a href="https://clood.enercoop.org/index.php/s/CageGfSnRMfM9y8" class="bouton">Découvrir le livret d'accueil</a>
+<a href="https://clood.enercoop.org/index.php/s/EtEnGLABq4sK42i" class="bouton">Découvrir le livret d'accueil</a>
 
 ***
 ### Qu'est-ce que cela change pour moi ?
