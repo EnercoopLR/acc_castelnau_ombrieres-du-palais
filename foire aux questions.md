@@ -15,7 +15,7 @@ L’autoconsommation collective est le fait d’être plusieurs à consommer l�
 
 Ce modèle innovant crée un circuit court physique et économique de l'électricité. Introduite dans la loi en 2015, l’autoconsommation collective (ACC) est entrée en phase opérationnelle en 2018. En 2022, la crise énergétique et des évolutions réglementaires ont donné un coup d’accélérateur à la filière. En effet, l’ACC répond à la demande des consommateurs et consommatrices d’avoir une énergie verte, fiable et en circuit court.
 
-<a href="https://clood.enercoop.org/index.php/s/WfJkFm6JJESqdGw" class="bouton">Découvrir le livre blanc de l'ACC</a>
+<a href="https://clood.enercoop.org/index.php/s/QGAeFeFFTsWLLDa" class="bouton">Découvrir le livre blanc de l'ACC</a>
 
 ***
 ### Quel prix ?
@@ -24,7 +24,7 @@ Le prix de partage du producteur au sein de l’Opération d'ACC est indexé sur
 
 Les producteurs s’engagent à prioriser la consommation de la Commune de Castelnau-le-Lez, puis à répartir le surplus entre les différents particuliers tel que décrit à l’Article. A date, La part énergie revient à 0,13 €/kWh hors taxes (au 12 juin 2026).
 
-<a href="https://clood.enercoop.org/index.php/s/XzsD3jYTsMXJ7JN" class="bouton">Découvrir le Schéma de répartition de l'énergie</a>
+<a href="https://clood.enercoop.org/index.php/s/LZwCfyAWFW59NMb" class="bouton">Découvrir le Schéma de répartition de l'énergie</a>
 
 ***
 ### Comment souscrire ?
