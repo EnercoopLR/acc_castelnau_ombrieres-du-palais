@@ -10,9 +10,6 @@ in_menu: true
 ## À Castelnau-Le-Lez - Les ombrières du Palais
 Je me renseigne pour savoir si je suis éligible géographiquement :
 
-<a href="file:///tmp/pid-285847/boucle_acc_palais.html" class="bouton">Vérifier avec mon adresse postale</a>
-
-
 <html lang="fr">
 
 <head>
