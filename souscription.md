@@ -14,6 +14,8 @@ Je me renseigne pour savoir si je suis éligible géographiquement
 
 <a href="file:///tmp/pid-285847/boucle_acc_palais.html" class="bouton">Vérifier avec mon adresse postale</a>
 
+<a href="https://form.enercoop.org/autoconsommation-collective-a-castelnau-le-lez" class="bouton">Je rejoins la communauté énergétique</a> 
+
 ***
 
 ### À Villeneuve-lès-Maguelone
