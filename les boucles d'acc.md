@@ -49,3 +49,7 @@ La ville de Castelnau-le-Lez lance son premier projet d'autoconsommation collect
 ![Zonage 2km]({% link images/Carte boucle périmètre.png %})
 
 <a href="#" class="bouton">Je rejoins la communauté énergétique</a> 
+
+***
+### BESOIN D'EN SAVOIR PLUS ?
+Découvrez notre [foire aux questions](https://enercooplr.github.io/acc_castelnau_ombrieres-du-palais/foire%20aux%20questions.html) 
