@@ -4,7 +4,6 @@ order: 1
 in_menu: true
 ---
 # REJOIGNEZ UNE COMMUNAUTÉ ÉNERGÉTIQUE PRÈS DE CHEZ VOUS
-
 ## LES BOUCLES D'AUTOCONSOMMATION COLLECTIVE DU TERRITOIRE
 <a href="https://enercooplr.github.io/acc_castelnau_ombrieres-du-palais/souscription.html" class="bouton">Je souscris</a>
 
@@ -27,6 +26,6 @@ Ce modèle innovant crée un circuit court physique et économique de l'électri
 
 <a href="https://www.enercoop.fr/notre-offre/economies-d-energie/plus-d-actes-moins-de-watts/autoconsommation-collective/" class="bouton">En savoir + sur l'autoconsommation collective</a> 
 
-### LES BOUCLES D'ACC ACCOMPAGNÉE PAR LA SA3M :
+### LES BOUCLES D'ACC ACCOMPAGNÉES PAR LA SA3M :
 
 <a href="https://enercooplr.github.io/acc_castelnau_ombrieres-du-palais/caracteristiques%20techniques.html" class="bouton">Découvrir les boucles d'ACC sur le territoire</a> 
