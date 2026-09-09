@@ -22,7 +22,7 @@ in_menu: true
 
 *  [Enedis](https://www.enedis.fr/) 
 
-**Enedis est l'entreprise de distribution d’électricité et gestionnaire du réseau électrique**. Née le 1er janvier 2008 dans le contexte de l’ouverture du marché de l’électricité à la concurrence, l'entreprise adopte en 2016 son nom actuel (anciennement nommée ERDF) pour mieux incarner sa posture d’acteur de service public nouvelle génération. 
+**Enedis est l'entreprise de distribution d’électricité et gestionnaire du réseau électrique**. Née le 1er janvier 2008 dans le contexte de l’ouverture du marché de l’électricité à la concurrence, l'entreprise adopte en 2016 son nom actuel (anciennement nommée ERDF) pour mieux incarner sa posture d’acteur de service public nouvelle génération. Enedis continue d'être l'instance de référence et prélève le TURPE dans la facture du fournisseur.
 
 ### Projet à Castelnau-Le-Lez :
 
