@@ -28,4 +28,4 @@ Ce modèle innovant crée un circuit court physique et économique de l'électri
 
 ### LES BOUCLES D'ACC ACCOMPAGNÉES PAR LA SA3M :
 
-<a href="https://enercooplr.github.io/acc_castelnau_ombrieres-du-palais/caracteristiques%20techniques.html" class="bouton">Découvrir les boucles d'ACC sur le territoire</a> 
+<a href="https://enercooplr.github.io/acc_castelnau_ombrieres-du-palais/les%20boucles%20d'acc.html" class="bouton">Découvrir les boucles d'ACC sur le territoire</a> 
