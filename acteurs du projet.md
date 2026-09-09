@@ -3,7 +3,7 @@ title: "Acteurs du projet"
 order: 3
 in_menu: true
 ---
-# Découvrez
+# DÉCOUVREZ
 
 ## Acteurs communs à toutes les boucles :
 
