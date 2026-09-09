@@ -44,3 +44,8 @@ Pour finaliser votre entrée dans l’opération, quelques démarches sont néce
 * La deuxième facture concernera l’électricité consommée en dehors des périodes de production des installations solaires et viendra de votre fournisseur habituel ou vous pouvez choisir de passer chez [Enercoop](https://souscription.enercoop.fr/s/etape/1).
 
 <a href="https://form.enercoop.org/autoconsommation-collective-a-castelnau-le-lez" class="bouton">Je rejoins la communauté énergétique</a> 
+
+***
+### Et si je rencontre un problème ?
+* Si votre problème concerne un soucis technique telle qu'une coupure d'électricité, cela vient du Réseau Enedis, donc de votre distributeur. Il vous faudra appeler le numéro de dépannage du distributeur. Le numéro à contacter est : 09 72 675 0 + n° de votre département.
+* Si votre problème concerne la facturation, votre correspond Hani pourra vous répondre et vous aider de h à h, du lundi au vendredi. 
