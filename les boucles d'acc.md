@@ -1,14 +1,12 @@
 ---
-title: "Caractéristiques techniques"
+title: "Les boucles d'ACC"
 order: 2
 in_menu: true
 ---
-# LES BOUCLES D'ACC
+# CARACTÉRISTIQUES TECHNIQUES 
 
-## CARACTÉRISTIQUES TECHNIQUES 
-
-### À Castelnau-Le-Lez :
-#### UN PROJET SUR MESURE
+## À Castelnau-Le-Lez :
+### UN PROJET SUR MESURE
 
 *[Castelnau-le-Lez](https://www.castelnau-le-lez.fr/) mène depuis plus de 10 ans une politique active dans le domaine du développement durable.Dans l’optique du réaménagement du parking du Palais des Sports Jacques Chaban Delmas, suite à labellisation « Terre de Jeux 2024 », la commune de Castelnau-le-Lez a saisit l'occasion de commencer à produire sa propre énergie renouvelable. Ce projet permettant aussi de se mettre en conformité avec la [loi APER](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047294244/), sa réalisation a été confié à la [SA3M](https://www.serm-montpellier.fr/).*
 
@@ -36,7 +34,7 @@ La ville de Castelnau-le-Lez lance son premier projet d'autoconsommation collect
 
 ***
 
-### À Villeneuve-lès-Maguelone : 
+## À Villeneuve-lès-Maguelone : 
 * **Localisation** : Villeneuve-lès-Maguelone (34)
 * **Choix du site** : Ombrières du parking de la Maison des Associations
 * **Caractéristiques du projet** : 1 130 m² d’ombrières photovoltaïques, 564 modules
