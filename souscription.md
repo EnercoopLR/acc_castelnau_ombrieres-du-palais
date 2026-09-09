@@ -12,7 +12,7 @@ Je me renseigne pour savoir si je suis éligible géographiquement :
 
 <a href="file:///tmp/pid-285847/boucle_acc_palais.html" class="bouton">Vérifier avec mon adresse postale</a>
 
-<!DOCTYPE html>
+
 <html lang="fr">
 
 <head>
