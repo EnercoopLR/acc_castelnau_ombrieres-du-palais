@@ -19,6 +19,8 @@ in_menu: true
 * **237 tonnes de CO2 évitées chaque année**
 * **Coût client** : 0,13 €/kWh hors taxes
 
+<a href="https://clood.enercoop.org/index.php/s/Jcz576EEmDRbBy5" class="bouton">Découvrir les détails du projet</a>
+
 ![Zonage 2km]({% link images/Zonage_boucle_2km.jpg %})
 
 <a href="https://form.enercoop.org/autoconsommation-collective-a-castelnau-le-lez" class="bouton">Je rejoins la communauté énergétique</a> 
