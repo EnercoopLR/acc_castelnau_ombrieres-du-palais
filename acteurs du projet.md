@@ -18,7 +18,7 @@ in_menu: true
 
 **Enercoop est connu pour sa fourniture d'énergie renouvelable**. La coopérative locale, experte de la mobilisation collective accompagne la commune et la SA3M à partager leur électricité en circuit court. 
 
-![Logo Enedis]({% link images/enedis-blueGreen.jpg %})
+![Logo ENEDIS]({% link images/Logo ENEDIS site web.jpg %})
 
 *  [Enedis](https://www.enedis.fr/) 
 
