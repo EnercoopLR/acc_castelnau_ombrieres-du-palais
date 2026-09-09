@@ -9,7 +9,7 @@ Pour nous contacter :
 * **Mail :** [acc-castelnau-le-lez@altemed.fr](mailto:acc-castelnau-le-lez@altemed.fr)
 * **Téléphone :** 09 74 19 26 13
 
-## Pour souscrire à Castelnau-Le-Lez :
+## Pour souscrire à Castelnau-Le-Lez
 * **Souscrire :** [ener.coop/castelnau-le-lez_souscrire ](https://form.enercoop.org/autoconsommation-collective-a-castelnau-le-lez)
 * **Mail :** [acc-castelnau-le-lez@altemed.fr](mailto:acc-castelnau-le-lez@altemed.fr)
 
@@ -17,7 +17,7 @@ Pour nous contacter :
 
 <a href="https://form.enercoop.org/autoconsommation-collective-a-castelnau-le-lez/" class="bouton">Je rejoins la communauté énergétique</a> 
 
-## Pour souscrire à Villeneuve-lès-Maguelone :
+## Pour souscrire à Villeneuve-lès-Maguelone
 * **Souscrire :**
 
 ![Ombrière Villeneuve]({% link images/Photo toiture ombrière ACC.jpg %})
