@@ -52,4 +52,4 @@ La ville de Castelnau-le-Lez lance son premier projet d'autoconsommation collect
 
 ***
 ### BESOIN D'EN SAVOIR PLUS ?
-Découvrez notre [foire aux questions](https://enercooplr.github.io/acc_castelnau_ombrieres-du-palais/foire%20aux%20questions.html) 
+Découvrez notre [foire aux questions](https://enercooplr.github.io/acc_castelnau_ombrieres-du-palais/foire%20aux%20questions.html) qui répondra notamment aux questions concernant le processus d'inscription, de facturation et bien plus encore. 
