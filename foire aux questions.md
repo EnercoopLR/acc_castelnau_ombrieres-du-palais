@@ -48,4 +48,4 @@ Pour finaliser votre entrée dans l’opération, quelques démarches sont néce
 ***
 ### Et si je rencontre un problème ?
 * Si votre problème concerne un souci technique, tel qu'une coupure d'électricité, cela signifie que le problème vient du réseau Enedis, donc de votre distributeur. Il vous faudra donc appeler le numéro de dépannage donné par Enedis, à savoir : 09 72 675 0 + n° de votre département.
-* Si votre problème concerne la facturation, [notre correspondant (humain)](https://enercooplr.github.io/acc_castelnau_ombrieres-du-palais/contact.html) pourra vous répondre et vous aider de h à h, du lundi au vendredi. 
+* Si votre problème concerne l'inscription, [notre correspondant (humain)](https://enercooplr.github.io/acc_castelnau_ombrieres-du-palais/contact.html) pourra vous répondre ou vous rappeler. 
