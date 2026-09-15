@@ -7,32 +7,10 @@ in_menu: true
 
 ### Sommaire
 * [1. À Castelnau-le-Lez](#mon-ancre)
-* [2. À Villeneuve-lès-Maguelone](#2-à-villeneuvelesmaguelone)
-* [3. Conclusion](#3-conclusion)
+* [2. À Villeneuve-lès-Maguelone](#mon-ancre2)
 
 ---
 <div id="mon-ancre"></div>## 1. À Castelnau-le-Lez
-
-## 1. À Castelnau-le-Lez :
-Contenu de l'introduction...
-
-## 2. À Villeneuve-lès-Maguelone
-Contenu des détails...
-
-## 3. Conclusion
-Contenu de la conclusion...
-
-
-
-
-
-
-### SOMMAIRE : 
-* [1. Boucle à Castelnau-le-Lez](#1-à-castelnau-le-lez)
-* [2. Boucle à Villeneuve-lès-Maguelone](#2-à-villeneuve-les-maguelone)
-
-
-## 1. À CASTELNAU-LE-LEZ : les Ombrières du Palais
 
 ### Un projet sur mesure :
 
@@ -62,8 +40,7 @@ La ville de Castelnau-le-Lez lance son premier projet d'autoconsommation collect
 <a href="https://form.enercoop.org/autoconsommation-collective-a-castelnau-le-lez" class="bouton">Je rejoins la communauté énergétique</a> 
 
 ***
-
-## 2. À VILLENEUVE-LES-MAGUELONE :  
+<div id="mon-ancre2"></div>## 2. À Villeneuve-lès-Maguelone 
 
 * **Localisation** : Villeneuve-lès-Maguelone (34)
 * **Choix du site** : Ombrières du parking de la Maison des Associations
