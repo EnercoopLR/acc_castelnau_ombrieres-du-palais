@@ -13,7 +13,7 @@ Pour nous contacter :
 * **Souscrire :** [ener.coop/castelnau-le-lez_souscrire ](https://form.enercoop.org/autoconsommation-collective-a-castelnau-le-lez)
 * **Mail :** [acc-castelnau-le-lez@altemed.fr](mailto:acc-castelnau-le-lez@altemed.fr)
 
-![Image3 Les Ombrières du Palais]({% link images/Capture d’écran du 2026-06-12 00-25-24.png %})
+![Photo ombrière3]({% link images/101_9990.JPG %})
 
 <a href="https://form.enercoop.org/autoconsommation-collective-a-castelnau-le-lez/" class="bouton">Je rejoins la communauté énergétique</a> 
 
