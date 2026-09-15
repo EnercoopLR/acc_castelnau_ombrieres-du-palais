@@ -5,12 +5,11 @@ in_menu: true
 ---
 # CARACTÉRISTIQUES TECHNIQUES 
 
-## SOMMAIRE : 
-* [1. Boucle à Castelnau-le-Lez](#1-mon-ancre1)
-* [2. Boucle à Villeneuve-lès-Maguelone](#2-mon-ancre2)
+### SOMMAIRE : 
+* [1. Boucle à Castelnau-le-Lez](#1-à-castelnau-le-lez)
+* [2. Boucle à Villeneuve-lès-Maguelone](#2-villeneuve-les-maguelone)
 
 
-<div id="mon-ancre1"></div>
 ## 1. À CASTELNAU-LE-LEZ : les Ombrières du Palais
 
 ### Un projet sur mesure :
@@ -41,8 +40,8 @@ La ville de Castelnau-le-Lez lance son premier projet d'autoconsommation collect
 <a href="https://form.enercoop.org/autoconsommation-collective-a-castelnau-le-lez" class="bouton">Je rejoins la communauté énergétique</a> 
 
 ***
-<div id="mon-ancre2"></div>
-## 2. À VILLENEUVE-LÈS-MAGUELONE :  
+
+## 2. À VILLENEUVE-LES-MAGUELONE :  
 
 * **Localisation** : Villeneuve-lès-Maguelone (34)
 * **Choix du site** : Ombrières du parking de la Maison des Associations
