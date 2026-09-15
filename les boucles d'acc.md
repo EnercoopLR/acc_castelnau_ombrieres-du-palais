@@ -7,7 +7,7 @@ in_menu: true
 
 ### SOMMAIRE : 
 * [1. Boucle à Castelnau-le-Lez](#1-à-castelnau-le-lez)
-* [2. Boucle à Villeneuve-lès-Maguelone](#2-villeneuve-les-maguelone)
+* [2. Boucle à Villeneuve-lès-Maguelone](#2-à-villeneuve-les-maguelone)
 
 
 ## 1. À CASTELNAU-LE-LEZ : les Ombrières du Palais
