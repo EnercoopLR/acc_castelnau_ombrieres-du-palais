@@ -7,17 +7,16 @@ in_menu: true
 
 ### Sommaire
 * [1. À Castelnau-le-Lez](#mon-ancre)
-* [2. À Villeneuve-lès-Maguelone](#2-à-VilleneuvelèsMaguelone)
+* [2. À Villeneuve-lès-Maguelone](#2-à-villeneuvelesmaguelone)
 * [3. Conclusion](#3-conclusion)
 
 ---
-<div id="mon-ancre"></div>
-## 1. À Castelnau-le-Lez :
+<div id="mon-ancre"></div>## 1. À Castelnau-le-Lez
 
 ## 1. À Castelnau-le-Lez :
 Contenu de l'introduction...
 
-## 2. À Villeneuve-lès-Maguelone :
+## 2. À Villeneuve-lès-Maguelone
 Contenu des détails...
 
 ## 3. Conclusion
