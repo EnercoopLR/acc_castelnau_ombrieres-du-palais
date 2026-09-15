@@ -5,7 +5,11 @@ in_menu: true
 ---
 # CARACTÉRISTIQUES TECHNIQUES 
 
-## À CASTELNAU-LE-LEZ : les Ombrières du Palais
+## SOMMAIRE : 
+* [1. Boucle à Castelnau-le-Lez](#1.-À-CASTELNAU-LE-LEZ-:-les-Ombrières-du-Palais)
+* [2. Boucle à Villeneuve-lès-Maguelone](#2-À-VILLENEUVE-LÈS-MAGUELONE-:)
+
+## 1. À CASTELNAU-LE-LEZ : les Ombrières du Palais
 ### Un projet sur mesure :
 
 *[Castelnau-le-Lez](https://www.castelnau-le-lez.fr/) mène depuis plus de 10 ans une politique active dans le domaine du développement durable.Dans l’optique du réaménagement du parking du Palais des Sports Jacques Chaban Delmas, suite à labellisation « Terre de Jeux 2024 », la commune de Castelnau-le-Lez a saisit l'occasion de commencer à produire sa propre énergie renouvelable. Ce projet permettant aussi de se mettre en conformité avec la [loi APER](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047294244/), sa réalisation a été confié à la [SA3M](https://www.serm-montpellier.fr/).*
@@ -15,7 +19,7 @@ in_menu: true
 La ville de Castelnau-le-Lez lance son premier projet d'autoconsommation collective pour lesquels les habitants de Castelnau-le-Lez et de Montpellier Méditerranée Métropole ont participé au financement par des obligations simples pour près de 2/3 de l'investissement via [Enerfip](https://www.enerfip.eu/fr). Aujourd'hui la SA3M vous propose de rejoindre le projet pour avoir une énergie à prix raisonnés ! La coopérative locale [Enercoop Languedoc-Roussillon](https://www.enercoop.fr/nos-cooperatives/languedoc-roussillon), est en charge de commercialiser cette offre d'énergie communale.
 [Découvrir les acteurs du projet](https://enercooplr.github.io/acc_castelnau_ombrieres-du-palais/acteurs%20du%20projet.html)
 
-![Image 2 les Ombrières du Palais]({% link images/Capture d’écran du 2026-06-12 00-25-11.png %})
+![Les Ombrières du Palais]({% link images/101_9989.JPG %})
 
 * **Localisation** : Castelnau-le-Lez (34)
 * **Choix du site** : ombrières du parking du Palais des Sports
@@ -35,7 +39,7 @@ La ville de Castelnau-le-Lez lance son premier projet d'autoconsommation collect
 
 ***
 
-## À VILLENEUVE-LÈS-MAGUELONE :  
+## 2. À VILLENEUVE-LÈS-MAGUELONE :  
 * **Localisation** : Villeneuve-lès-Maguelone (34)
 * **Choix du site** : Ombrières du parking de la Maison des Associations
 * **Caractéristiques du projet** : 1 130 m² d’ombrières photovoltaïques, 564 modules
