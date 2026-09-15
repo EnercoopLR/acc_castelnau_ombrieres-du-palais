@@ -6,10 +6,13 @@ in_menu: true
 # CARACTÉRISTIQUES TECHNIQUES 
 
 ## SOMMAIRE : 
-* [1. Boucle à Castelnau-le-Lez](#1.-À-CASTELNAU-LE-LEZ-:-les-Ombrières-du-Palais)
-* [2. Boucle à Villeneuve-lès-Maguelone](#2-À-VILLENEUVE-LÈS-MAGUELONE-:)
+* [1. Boucle à Castelnau-le-Lez](#1-mon-ancre1)
+* [2. Boucle à Villeneuve-lès-Maguelone](#2-mon-ancre2)
 
+
+<div id="mon-ancre1"></div>
 ## 1. À CASTELNAU-LE-LEZ : les Ombrières du Palais
+
 ### Un projet sur mesure :
 
 *[Castelnau-le-Lez](https://www.castelnau-le-lez.fr/) mène depuis plus de 10 ans une politique active dans le domaine du développement durable.Dans l’optique du réaménagement du parking du Palais des Sports Jacques Chaban Delmas, suite à labellisation « Terre de Jeux 2024 », la commune de Castelnau-le-Lez a saisit l'occasion de commencer à produire sa propre énergie renouvelable. Ce projet permettant aussi de se mettre en conformité avec la [loi APER](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047294244/), sa réalisation a été confié à la [SA3M](https://www.serm-montpellier.fr/).*
@@ -38,8 +41,9 @@ La ville de Castelnau-le-Lez lance son premier projet d'autoconsommation collect
 <a href="https://form.enercoop.org/autoconsommation-collective-a-castelnau-le-lez" class="bouton">Je rejoins la communauté énergétique</a> 
 
 ***
-
+<div id="mon-ancre2"></div>
 ## 2. À VILLENEUVE-LÈS-MAGUELONE :  
+
 * **Localisation** : Villeneuve-lès-Maguelone (34)
 * **Choix du site** : Ombrières du parking de la Maison des Associations
 * **Caractéristiques du projet** : 1 130 m² d’ombrières photovoltaïques, 564 modules
