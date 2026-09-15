@@ -3,7 +3,7 @@ title: "Accueil"
 order: 1
 in_menu: true
 ---
-# REJOIGNEZ UNE COMMUNAUTÉ ÉNERGÉTIQUE PRÈS DE CHEZ VOUS
+# REJOIGNEZ UNE COMMUNAUTÉ ÉNERGÉTIQUE PRÈS DE VOUS
 ## LES BOUCLES D'AUTOCONSOMMATION COLLECTIVE DU TERRITOIRE
 <a href="https://enercooplr.github.io/acc_castelnau_ombrieres-du-palais/souscription.html" class="bouton">Je souscris</a>
 
