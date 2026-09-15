@@ -5,7 +5,23 @@ in_menu: true
 ---
 # COMMENT ÇA FONCTIONNE ?
 
-![Image4 Les Ombrières du Palais]({% link images/Capture d’écran du 2026-06-12 00-25-24.png %})
+<style>
+
+ 
+
+main img {
+
+  display: block;
+
+  max-width: 100%;
+
+  height: auto;
+
+  margin: 1.5rem auto;
+
+}
+
+</style> ![Photo Ombrière du palais 2]({% link images/101_9991.JPG %})
 
 ## POUR ALLER PLUS LOIN 
 
