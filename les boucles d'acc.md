@@ -6,8 +6,8 @@ in_menu: true
 # CARACTÉRISTIQUES TECHNIQUES
 
 ### Sommaire
-* [1. À Castelnau-le-Lez](#1-à-castelnau-le-lez)
-* [2. À Villeneuve-lès-Maguelone](#2-à-Villeneuve-lès-Maguelone)
+* [1. À Castelnau-le-Lez](#1-à-castelnaulelez)
+* [2. À Villeneuve-lès-Maguelone](#2-à-VilleneuvelèsMaguelone)
 * [3. Conclusion](#3-conclusion)
 
 ---
