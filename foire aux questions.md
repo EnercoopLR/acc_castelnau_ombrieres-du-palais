@@ -59,6 +59,8 @@ Pour finaliser votre entrée dans l’opération, quelques démarches sont néce
 * L’une provenant de projet d’autoconsommation collective, qui facturera pour le compte des producteurs, en fonction de la quantité d’électricité consommée en provenance de chaque producteur.
 * La deuxième facture concernera l’électricité consommée en dehors des périodes de production des installations solaires et viendra de votre fournisseur habituel ou vous pouvez choisir de passer chez [Enercoop](https://souscription.enercoop.fr/s/etape/1).
 
+À noter, qu'Enedis continue donc d’être l’instance de référence. Sur votre **facture**, c’est votre fournisseur qui facture le TURPE (Tarif d’Utilisation des Réseaux Publics d’Électricité) de votre consommation habituelle et celle de l’ACC pour le compte d’Enedis.
+
 <a href="https://form.enercoop.org/autoconsommation-collective-a-castelnau-le-lez" class="bouton">Je rejoins la communauté énergétique</a> 
 
 ***
