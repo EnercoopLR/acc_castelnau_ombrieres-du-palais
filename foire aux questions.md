@@ -57,13 +57,12 @@ Pour finaliser votre entrée dans l’opération, quelques démarches sont néce
 À la fois rien et tout ! Concrètement, l’électricité consommée sera toujours d’aussi bonne qualité : pas de coupure ni aucune installation à faire chez vous. C’est uniquement le système de facturation qui sera légèrement modifié. Vous recevrez désormais 2 factures :
 
 * L’une provenant de projet d’autoconsommation collective, qui facturera pour le compte des producteurs, en fonction de la quantité d’électricité consommée en provenance de chaque producteur.
-* La deuxième facture concernera l’électricité consommée en dehors des périodes de production des installations solaires et viendra de votre fournisseur habituel ou vous pouvez choisir de passer chez [Enercoop](https://souscription.enercoop.fr/s/etape/1).
+* La deuxième facture concernera l’électricité consommée en dehors des périodes de production des installations solaires et viendra de votre fournisseur habituel ou vous pouvez choisir de changer de fournisseur et passer chez [Enercoop](https://souscription.enercoop.fr/s/etape/1).
 
 À noter, qu'Enedis continue donc d’être l’instance de référence. Sur votre **facture**, c’est votre fournisseur qui facture le TURPE (Tarif d’Utilisation des Réseaux Publics d’Électricité) de votre consommation habituelle et celle de l’ACC pour le compte d’Enedis.
 
-<a href="https://form.enercoop.org/autoconsommation-collective-a-castelnau-le-lez" class="bouton">Je rejoins la communauté énergétique</a> 
 
 ***
 ### Et si je rencontre un problème ?
-* Si votre problème concerne un souci technique, tel qu'une coupure d'électricité, cela signifie que le problème vient du réseau Enedis, donc de votre distributeur. Il vous faudra donc appeler le numéro de dépannage donné par Enedis, à savoir : 09 72 675 0 + n° de votre département.
+* Si votre problème concerne un souci technique, tel qu'une coupure d'électricité, cela signifie que le problème vient du réseau Enedis, donc de votre distributeur. Il vous faudra alors appeler le numéro de dépannage donné par Enedis, à savoir : 09 72 675 0 + n° de votre département.
 * Si votre problème concerne l'inscription, [notre correspondant (humain)](https://enercooplr.github.io/acc_castelnau_ombrieres-du-palais/contact.html) pourra vous rappeler. 
