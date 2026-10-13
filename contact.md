@@ -5,13 +5,13 @@ in_menu: true
 ---
 # REJOINDRE UNE BOUCLE D'AUTOCONSOMMATION COLLECTIVE
 
-Pour demander à être rappelé :
+Pour prendre contact et demander à être rappelé, remplir le formulaire ci-dessous :
 <iframe
   width="500" height="600" frameborder="0"
   src="https://form.enercoop.org/embed/formulaire-de-contact">
 </iframe>
 
-
+                                                                                                                                     
 * **Mail :** [acc-castelnau-le-lez@altemed.fr](mailto:acc-castelnau-le-lez@altemed.fr)
 * **Téléphone :** 09 74 19 26 13
 
