@@ -5,9 +5,13 @@ in_menu: true
 ---
 # JE SOUSCRIS À UNE BOUCLE D'AUTOCONSOMMATION COLLECTIVE DU TERRITOIRE 
 
-***
+### Sommaire
+* [1. À Castelnau-le-Lez](#mon-ancre)
+* [2. À Villeneuve-lès-Maguelone](#mon-ancre2)
 
-## À Castelnau-Le-Lez - Les ombrières du Palais
+---
+<div id="mon-ancre"></div>## 1. À Castelnau-le-Lez
+
 Je me renseigne pour savoir si je suis éligible géographiquement :
 
 <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css"> <style> .acc-map-container { width: 100%; max-width: 900px; margin: 30px auto; background: #f3f5f7; border-radius: 16px; box-shadow: 0 10px 30px rgba(0, 0, 0, .15); overflow: hidden; } .acc-map-header { padding: 20px; background: white; border-bottom: 1px solid #ddd; } .acc-map-container input { width: 100%; padding: 14px; font-size: 16px; border-radius: 8px; border: 1px solid #bbb; box-sizing: border-box; } .acc-map-suggestions { position: relative; } .acc-map-list { position: absolute; left: 0; right: 0; background: white; border-radius: 8px; box-shadow: 0 5px 15px rgba(0, 0, 0, .2); z-index: 1000; overflow: hidden; } .acc-map-item { padding: 10px; cursor: pointer; } .acc-map-item:hover { background: #efefef; } #map { height: 500px; width: 100%; } .acc-map-result { padding: 20px; background: white; font-size: 18px; font-weight: bold; } .acc-map-result .ok { color: #0b8d3f; } .acc-map-result .ko { color: #d62828; } .acc-map-result .distance { margin-top: 10px; font-size: 15px; font-weight: normal; } .acc-map-container .green-marker { filter: hue-rotate(-70deg) saturate(1.2); } /* Adaptation mobile */ @media (max-width: 700px) { .acc-map-container { width: 100%; margin: 20px 0; border-radius: 10px; } #map { height: 400px; } } </style> <div class="acc-map-container">
@@ -30,8 +34,8 @@ Je me renseigne pour savoir si je suis éligible géographiquement :
 
 
 ***
+<div id="mon-ancre2"></div>## 2. À Villeneuve-lès-Maguelone 
 
-## À Villeneuve-lès-Maguelone
 Je me renseigne pour savoir si je suis éligible géographiquement :
 
 <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css"> <style> .acc-map-container { width: 100%; max-width: 900px; margin: 30px auto; background: #f3f5f7; border-radius: 16px; box-shadow: 0 10px 30px rgba(0, 0, 0, .15); overflow: hidden; } .acc-map-header { padding: 20px; background: white; border-bottom: 1px solid #ddd; } .acc-map-container input { width: 100%; padding: 14px; font-size: 16px; border-radius: 8px; border: 1px solid #bbb; box-sizing: border-box; } .acc-map-suggestions { position: relative; } .acc-map-list { position: absolute; left: 0; right: 0; background: white; border-radius: 8px; box-shadow: 0 5px 15px rgba(0, 0, 0, .2); z-index: 1000; overflow: hidden; } .acc-map-item { padding: 10px; cursor: pointer; } .acc-map-item:hover { background: #efefef; } #map { height: 500px; width: 100%; } .acc-map-result { padding: 20px; background: white; font-size: 18px; font-weight: bold; } .acc-map-result .ok { color: #0b8d3f; } .acc-map-result .ko { color: #d62828; } .acc-map-result .distance { margin-top: 10px; font-size: 15px; font-weight: normal; } .acc-map-container .green-marker { filter: hue-rotate(-70deg) saturate(1.2); } /* Adaptation mobile */ @media (max-width: 700px) { .acc-map-container { width: 100%; margin: 20px 0; border-radius: 10px; } #map { height: 400px; } } </style> <div class="acc-map-container">
