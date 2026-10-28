@@ -26,6 +26,6 @@ Pour prendre contact et demander à être rappelé, remplir le formulaire ci-des
 ## Pour souscrire à Villeneuve-lès-Maguelone
 * **Souscrire :**
 
-![Ombrière Villeneuve]({% link images/Photo toiture ombrière ACC.jpg %})
+![Ombrière Villeneuve 2]({% link images/Photo vue aérienne ombrière.jpg %})
 
 <a href="#" class="bouton">Je rejoins la communauté énergétique</a> 
