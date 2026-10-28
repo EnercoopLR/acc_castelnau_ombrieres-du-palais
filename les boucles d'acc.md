@@ -44,13 +44,15 @@ La ville de Castelnau-le-Lez lance son premier projet d'autoconsommation collect
 
 ### Un projet sur mesure :
 
-*La ville de Villeneuve-lès-Maguelone mène une politique active dans les différentes thématiques du domaine du développement durable. Dans ce cadre, la ville a identifié plusieurs projets sur son patrimoine susceptibles de recevoir une installation photovoltaïque : notamment les sites du Nouveau CTM, du parking du collège et du parking de la Maison des associations.*
+*La ville de [Villeneuve-lès-Maguelone](https://www.villeneuvelesmaguelone.fr/) mène une politique active dans les différentes thématiques du domaine du développement durable. Dans ce cadre, la ville a identifié plusieurs projets sur son patrimoine susceptibles de recevoir une installation photovoltaïque : notamment les sites du Nouveau CTM, du parking du collège et du parking de la Maison des associations.*
 
 Pour la conception, la réalisation et l’exploitation des installations photovoltaïques, la Ville de Villeneuve-lès-Maguelone s’est tournée vers la [SA3M](https://www.serm-montpellier.fr/), Société d’Aménagement de Montpellier Méditerranée Métropole, dont elle est actionnaire. La SA3M est une Société Publique Locale et assure pour ses collectivités-actionnaires des opérations dans les domaines de l’aménagement du territoire, du tourisme, du loisir, du développement économique et de l’énergie, domaines dans lesquels elle a déjà une expérience de plusieurs décennies.
 
 C’est à ce titre que la SA3M a étudiée la faisabilité technico-économique des projets puis en a assuré la réalisation et désormais, l’exploitation. 
 La coopérative locale [Enercoop Languedoc-Roussillon](https://www.enercoop.fr/nos-cooperatives/languedoc-roussillon), est en charge de commercialiser cette offre d'énergie communale.
 [Découvrir les acteurs du projet](https://enercooplr.github.io/acc_castelnau_ombrieres-du-palais/acteurs%20du%20projet.html)
+
+![Ombrière Villeneuve]({% link images/Photo toiture ombrière ACC.jpg %})
 
 * **Localisation** : Villeneuve-lès-Maguelone (34)
 * **Choix du site** : Ombrières du parking de la Maison des Associations
