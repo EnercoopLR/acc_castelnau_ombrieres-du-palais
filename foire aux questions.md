@@ -23,8 +23,6 @@ main img {
 
 </style> ![Photo Ombrière du palais 2]({% link images/101_9991.JPG %})
 
-## POUR ALLER PLUS LOIN 
-
 ***
 ### C'est quoi l'autoconsommation collective ?
 L’autoconsommation collective est le fait d’être plusieurs à consommer l’électricité produite par un moyen de production au sein d’une zone géographique définie.
