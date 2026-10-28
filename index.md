@@ -5,7 +5,7 @@ in_menu: true
 ---
 # REJOIGNEZ UNE COMMUNAUTÉ ÉNERGÉTIQUE PRÈS DE VOUS
 ## LES BOUCLES D'AUTOCONSOMMATION COLLECTIVE DU TERRITOIRE
-<a href="https://enercooplr.github.io/acc_castelnau_ombrieres-du-palais/souscription.html" class="bouton">Je souscris</a>
+<a href="https://enercooplr.github.io/acc_castelnau_ombrieres-du-palais/souscription.html" class="bouton">Je regarde si je suis éligible et je souscris</a>
 
 
 ![Image les Ombrières du Palais]({% link images/Ombrieres Casltenau.jpg %})
