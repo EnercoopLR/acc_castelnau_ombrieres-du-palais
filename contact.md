@@ -5,7 +5,7 @@ in_menu: true
 ---
 # REJOINDRE UNE BOUCLE D'AUTOCONSOMMATION COLLECTIVE
 
-Pour prendre contact et demander à être rappelé, remplir le formulaire ci-dessous :
+## Pour prendre contact et demander à être rappelé, remplir le formulaire ci-dessous :
 <iframe
   width="500" height="600" frameborder="0"
   src="https://form.enercoop.org/embed/formulaire-de-contact">
